@@ -67,7 +67,8 @@ I have a custom configuration file with some addons for i3. You can find it in
 
 https://github.com/FavioVazquez/dotfiles-linux-configurations/blob/master/dotfiles/config
 
-Please read the docs if you want to understand this configuration file.
+Please read the docs if you want to understand this configuration file. You can prettify and customize the looks of i3, and for me one of the best explained tutorials is the one by [Nikhil Kumar](http://kumarcode.com/). It is not that easy to follow, but if you do it with care you will have a beatiful and useful skin for your i3-wm. You can find the tutorial in 
+http://kumarcode.com/Colorful-i3/.
 
 # Ranger 
 
