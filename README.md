@@ -87,10 +87,37 @@ sudo make install
 
 # Kupfer 
 
+Kupfer is an interface for quick and convenient access to applications and their documents.
+
+To install:
+
 ```
 sudo apt-get install kupfer
 ```
 
 Open Kupfer from terminal, in general mark "Start automatically on login". In Keyboard change the Show Main Interface with whatever you want. I use *Alt*+*D*.
 
+# Kile 
 
+Kile is a user-friendly TeX/LaTeX editor for the KDE desktop environment. KDE is available for many architectures and operating systems such as PC, Mac, and BSD, including Linux and Microsoft Windows.
+
+The main features are:
+
+- Compile, convert and view your document with one click.
+- Auto-completion of (La)TeX commands
+- Templates and wizards make starting a new document very little work.
+- Easy insertion of many standard tags and symbols and the option to define (an arbitrary number of) user defined tags.
+- Inverse and forward search: click in the DVI viewer and jump to the corresponding LaTeX line in the editor, or jump from the editor to the corresponding page in the viewer.
+- Finding chapter or sections is very easy, Kile constructs a list of all the chapter etc. in your document. You can use the list to jump to the corresponding section.
+- Collect documents that belong together into a project.
+- Easy insertion of citations and references when using projects.
+- Flexible and smart build system to compile your LaTeX documents.
+- QuickPreview, preview a selected part of your document.
+- Easy access to various help sources.
+- Advanced editing commands.
+
+To install (it is a big package):
+
+```
+sudo apt-get install kile
+```
